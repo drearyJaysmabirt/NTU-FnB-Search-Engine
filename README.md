@@ -1,5 +1,8 @@
 # 🍽 NTU F&B Search Engine
 
+![Demo](images/mainmenu.png)  
+*Here's the main menu in PyCharm^^*
+
 ## 📖 Overview
 A Python program that helps NTU students/staff find canteens based on:
 - **Keyword search** (e.g., "Western AND Fries")
